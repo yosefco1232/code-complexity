@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: code-complexity
+Version: 0.1.0
+Summary: A CLI tool to analyze and visualize code complexity.
+Author-email: Your Name <your@email.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.0
+Requires-Dist: radon>=5.1
+Requires-Dist: matplotlib>=3.5
+Requires-Dist: jinja2>=3.0
